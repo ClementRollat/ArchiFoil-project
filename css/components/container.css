@@ -1,0 +1,47 @@
+
+
+.container {
+width: 700px; 
+margin: 100px;
+}
+
+
+.container {
+width: 700px; 
+margin: 100px;
+}
+
+@media (max-width: 1200px){
+	#containerA {
+		width: 100%;
+	}
+}
+
+@media (max-width: 960px) {
+	#containerA {
+		width: 100%;
+	}
+}
+
+@media (max-width: 720px) {
+	#containerA {
+		width: 100%;
+	}
+}
+
+@media (max-width: 540px){
+	#containerA {
+		width: 100%;
+	}
+	.card {
+		display: inline-block;
+	}
+}
+
+
+
+
+
+
+
+
